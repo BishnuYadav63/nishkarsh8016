@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently **in my 3rd year of B.tech.**
 
-- 🌱 I’m currently learning **data structures,frontend and all about full stack development.**
+- 🌱 I’m currently learning **CP.**
 
-- 💬 Ask me about **java and frontend development.**
+- 💬 Ask me about **Java and Full Stack Developer.**
 
 - 📫 How to reach me through gmail **vishnunishkarsh@gmail45.com**
 
