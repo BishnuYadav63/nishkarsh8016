@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bishnu Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 - 🔭 I’m currently **in my 3rd year of B.tech.**
 
